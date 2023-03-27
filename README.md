@@ -1,5 +1,6 @@
 # flask-todo
 A simple to-do app made with Flask and Bootstrap
+Tutorial from: https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=381s
 
 Preview of the app:
 ![image](https://user-images.githubusercontent.com/123865026/227876535-10bf7906-30ce-40c2-bcef-007467667bea.png)
